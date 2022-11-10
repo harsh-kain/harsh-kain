@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-kain&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-kain" /> </p>
 
-- 🤚 About me - **This is Harsh kain and front-end developer, Youtuber, Computer Science Student, also working as a Freelancer in Web Production level Projects in STP Development and Production. I am working on web development for more than 7 months and in this period I learn a lot of new stuff about Front-end development etc and build an End to End projects. 🙋‍♂️.**
+- 🤚 About me - **This is Harsh kain and front-end developer, Youtuber, Computer Science Student, also working as a Freelancer in Web Production level Projects in STP Development and Production. I am working on web development for more than 1.3 year and in this period I learn a lot of new stuff about Front-end development etc and build an End to End projects. 🙋‍♂️.**
 
 - 🌱 I’m currently learning - **React JS, Node JSm, Figma and Tailwinds CSS .**
 
