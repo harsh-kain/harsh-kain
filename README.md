@@ -6,7 +6,7 @@
 
 - 🤚 About me - **This is Harsh kain and I'm a front-end developer, Youtuber, Computer Science Student, also working as a Freelancer. Currently I am working on my problem solving skills and Back-end Development. 🙋‍♂️.**
 
-- 🌱 I’m currently learning - **React JS, Node JSm, Figma and Tailwinds CSS .**
+- 🌱 I’m currently learning - **React JS, Node JS, Figma and Tailwinds CSS .**
 
 - 👯 I’m looking to collaborate on - **Microsoft and Other FAANG companies.**
 
