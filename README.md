@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-kain&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-kain" /> </p>
 
-- 🤚 About me - **This is Harsh kain and front-end developer, Youtuber, Computer Science Student, also working as a Freelancer. Currently I am working on my problem solving skills and Back-end Development. 🙋‍♂️.**
+- 🤚 About me - **This is Harsh kain and I'm a front-end developer, Youtuber, Computer Science Student, also working as a Freelancer. Currently I am working on my problem solving skills and Back-end Development. 🙋‍♂️.**
 
 - 🌱 I’m currently learning - **React JS, Node JSm, Figma and Tailwinds CSS .**
 
-- 👯 I’m looking to collaborate on - **Google and Other Tech Companies.**
+- 👯 I’m looking to collaborate on - **Microsoft and Other FAANG companies.**
 
-- 💬 Ask me about - **Responsive Web Design, UI Design and Web Apps**
+- 💬 Ask me about - **Responsive Web Design, UI Design and Web Apps, programming logics**
 
-- 📫 How to reach me - **harshkain1899@gmail.com**
+- 📫 How to reach me - **harshkain1899@gmail.com , harshkain415@gmail.com **
 
 
 <h3 align="left">Connect with me:</h3>
