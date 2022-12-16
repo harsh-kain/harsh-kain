@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on - **Microsoft and Other FAANG companies.**
 
-- 💬 Ask me about - **Responsive Web Design, UI Design and Web Apps, programming logics**
+- 💬 Ask me about - **Responsive Web Design, UI Design and Web Apps, Programming and Problem solvings **
 
 - 📫 How to reach me - **harshkain1899@gmail.com , harshkain415@gmail.com **
 
