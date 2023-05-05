@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kain</h1>
 <h3 align="center">Frontend-Developer | Youtuber</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-kain&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-kain" /> </p>
-
 - 🤚 About me - **This is Harsh kain and I'm a front-end developer, Youtuber, Computer Science Student, also working as a Freelancer. Currently I am working on my problem solving skills and Back-end Development. 🙋‍♂️.**
 
 - 🌱 I’m currently learning - **React JS, Node JS, Figma and Tailwinds CSS .**
