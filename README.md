@@ -42,8 +42,3 @@
 
 <h3 align="left">Others:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-kain&&show_icons=true&locale=en&layout=compact" alt="harsh-kain" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-kain&show_icons=true&locale=en" alt="harsh-kain" /></p>
-
-[![Harsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=harsh-kain&theme=react-dark&hide_border=true)](https://github.com/harsh-kain/)
