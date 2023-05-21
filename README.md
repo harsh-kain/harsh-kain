@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Kain</h1>
-<h3 align="center">Frontend-Developer | Youtuber</h3>
+<h3 align="center">Frontend-Developer | Youtuber | FreeLancer</h3>
 
 - 🤚 About me - **This is Harsh kain and I'm a front-end developer, Youtuber, Computer Science Student, also working as a Freelancer. Currently I am working on my problem solving skills and Back-end Development. 🙋‍♂️.**
 
